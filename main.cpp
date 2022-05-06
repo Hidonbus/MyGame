@@ -24,4 +24,5 @@ using namespace std;
 //main function
 int main(){
   game();
+  return 0;
 }
